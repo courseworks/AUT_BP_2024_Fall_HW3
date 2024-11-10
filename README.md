@@ -256,10 +256,6 @@ The program should:
 
 ---
 
-Here’s the modified breakdown for the question based on the specified input format:
-
----
-
 ## 6th Question: Combine Two Arrays and Remove Duplicates
 
 ### Description
