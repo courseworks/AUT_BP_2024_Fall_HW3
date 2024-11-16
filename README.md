@@ -76,7 +76,7 @@ The result should be in the format `#CamelCase` where each word in the sentence 
   
 - **Example 2:**
     - **Input:** `open AI Chat GPT`
-    - **Output:** `#OpenAIChatGPT`
+    - **Output:** `#OpenAiChatGPT`
 
 - **Example 3:**
     - **Input:** ` coding is fun `
